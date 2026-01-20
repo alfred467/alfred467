@@ -22,3 +22,8 @@ I'm **Alfred Waithaka**, founder of **Xovix Labs** — a digital innovation lab 
 🌐 Website: https://alfredwaithaka.lovable.app/xovix-labs  
 💼 LinkedIn: https://www.linkedin.com/in/xovixlabsfounder/
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfred467&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=alfred467)
+
