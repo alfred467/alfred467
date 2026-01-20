@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**alfred467/alfred467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Alfred Waithaka**, founder of **Xovix Labs** — a digital innovation lab focused on AI-powered solutions, automation, and scalable web systems.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- AI & automation enthusiast
+- Full-stack web developer
+- Building practical tools for startups and businesses
+- Focused on Africa and emerging markets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- AI productivity tools and integrations
+- Web platforms and dashboards
+- Xovix Labs products and experiments
+
+### 👯 Open To
+- Collaborations
+- Freelance & contract work
+- Startup partnerships
+- Early-stage funding discussions
+
+🌐 Website: https://alfredwaithaka.lovable.app/xovix-labs  
+💼 LinkedIn: https://www.linkedin.com/in/xovixlabsfounder/
+
