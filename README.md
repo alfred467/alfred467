@@ -7,7 +7,6 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=ffb347&center=true&vCenter=true&width=700&lines=👨‍💻+About+Me)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=ffffff&center=true&vCenter=true&width=700&lines=🤖+AI+%26+automation+enthusiast;🌐+Full-stack+web+developer;🛠+Building+practical+tools+for+startups+and+businesses;🌍+Focused+on+Africa+and+emerging+markets)](https://git.io/typing-svg)
 
