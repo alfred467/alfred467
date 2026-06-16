@@ -1,6 +1,6 @@
 <h2 align="center">Alfred N. Waithaka</h2>
 <p align="center">
-Founder @ Xovix Labs • Building AI tools and automation systems
+Building AI tools and automation systems
 </p>
 
 ---
@@ -58,16 +58,6 @@ You'll mostly find:
 - infrastructure for Xovix Labs products
 
 Some things are polished, some are just ideas being tested.
-
----
-
-### Links
-
-Website  
-https://alfredwaithaka.lovable.app/xovix-labs
-
-LinkedIn  
-https://www.linkedin.com/in/xovixlabsfounder/
 
 ---
 
