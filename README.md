@@ -7,7 +7,7 @@ Building AI tools and automation systems
 
 ### Hi
 
-I'm Alfred — a developer and founder working on software that helps businesses automate processes and run better systems.
+I'm Alfred a developer and founder working on software that helps businesses automate processes and run better systems.
 
 Most of what I build sits around:
 
